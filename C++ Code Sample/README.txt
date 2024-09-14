@@ -1,1 +1,0 @@
-Hello, I'm Karan! This is code all written 100% by me for an embedded systems project I really love!
